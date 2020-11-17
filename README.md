@@ -1,7 +1,7 @@
 <h1>Análise de Dados dos bens declarados dos candidatos à reeleição no município de São José dos Campos</h1>
 
 Trabalho ministrado pelo Prof.º [Fernando Masanori](https://github.com/fmasanori) na Fatec - São José dos Campos. Este trabalho tem como objetivo analisar e comparar os bens declarados dos candidatos à reeleição, nas campanhas de 2020 e 2016, no município de São José dos Campos. Para tanto, foi feita uma análise dos dados apresentados ao TSE, disponível neste [link](https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos.html).
-</br>
+</br></br>
 :warning: Esta análise não possui nenhum vínculo partidário e tem apenas o objetivo de demonstrar os fatos.
 </br></br>
 
